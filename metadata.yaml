@@ -1,0 +1,28 @@
+_repo: Le-f-minisme-fran-ais-II--13-L--mancipation-politique-et-familiale-de-la-femme_30009
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Turgeon, Charles Marie Joseph
+    birthdate: 1855
+    deathdate: 1934
+    gutenberg_agent_id: '34305'
+    url: http://www.gutenberg.org/2009/agents/34305
+description: ''
+gutenberg_bookshelf: FR Sciences et Techniques
+gutenberg_issued: '2009-09-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30009'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Women -- France'
+- !lcc 'HQ'
+- !lcsh 'Women -- Social and moral questions'
+title: "Le féminisme français II\r\nL'émancipation politique et familiale de la femme"
+url: http://www.gutenberg.org/ebooks/30009
